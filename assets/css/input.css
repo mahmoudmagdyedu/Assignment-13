@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body{
+    @apply bg-[#F2F6FA];
+    @apply font-[Inter]
+}
